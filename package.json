@@ -1,0 +1,14 @@
+{
+  "name": "pruebahttps",
+  "version": "1.0.0",
+  "description": "esto es una prueba",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ulises",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
